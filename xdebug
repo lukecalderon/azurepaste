@@ -1,0 +1,4 @@
+[XDebug]
+zend_extension=d:\devtools\xdebug\v2.4.0\php_xdebug_2.4.0.dll 
+xdebug.profiler_enable=1
+xdebug.profiler_output_dir="d:\home\site\bin\xdebug_profiles"
